@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homePage"
+        android:title="My Cards"/>
+
+    <item
+        android:id="@+id/profilePage"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/howPage"
+        android:title="How it works"/>
+
+    <group>
+        <item
+            android:id="@+id/signOut"
+            android:title="Sign Out"/>
+    </group>
+
+</menu>
